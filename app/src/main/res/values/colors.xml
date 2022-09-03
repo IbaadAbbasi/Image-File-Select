@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#FF009688</color>
+    <color name="colorAccent">#FFFF9800</color>
+    <color name="colorPrimaryDark">#FF00796B</color>
+
+  <!--  <color name="colorPrimary">#FF009688</color>
+    <color name="colorPrimaryLight">#FF4DB6AC</color>
+    <color name="colorPrimaryDark">#FF00796B</color>
+    <color name="colorAccent">#FFFF9800</color>
+
+    <color name="ucrop_color_toolbar">#FF009688</color>
+    <color name="ucrop_color_statusbar">#FF00796B</color>
+    <color name="ucrop_color_widget_active">#FF009688</color>
+    <color name="ucrop_color_toolbar_widget">#fff</color>
+
+    <color name="dialog_choose_icon_color">#FF757575</color>
+    <color name="dialog_choose_text_color">#FF757575</color>-->
+</resources>
